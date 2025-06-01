@@ -56,7 +56,7 @@
 - 🔗 [GitHub Repo](https://github.com/PATELKRISH9/-TECHPLEMENT)
 
 ### 🍳 **Recipe Finder App**  
-- **Tech Stack:** React.js, Edamam API, Axios, CSS  
+- **Tech Stack:** React.js,Spoonacular API, Axios, CSS  
 - **Description:** A responsive web app where users can search for recipes based on ingredients. Displays recipe name, image, calories, and ingredients fetched from an external API.
 ---
 
