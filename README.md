@@ -35,10 +35,10 @@
 
 ## 📌 **Pinned Projects**
 
-### 🛒 **ECOMMERCE**
+### 🛒 **Excel-Analyser**
 - **Tech Stack:** JavaScript, Node.js, Express.js, MongoDB
 - **Description:** A full-stack e-commerce application with features like user authentication, product management, and shopping cart functionality.
-- 🔗 [GitHub Repo](https://github.com/PATELKRISH9/ECOMMERCE)
+- 🔗 [GitHub Repo](https://github.com/PATELKRISH9/Excel-Analyser)
 
 ### 📰 **news-app**
 - **Tech Stack:** JavaScript
