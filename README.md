@@ -37,7 +37,8 @@
 
 ### 🛒 **Excel-Analyser**
 - **Tech Stack:** JavaScript, Node.js, Express.js, MongoDB
-- **Description:** A full-stack e-commerce application with features like user authentication, product management, and shopping cart functionality.
+- **Description:**quickly ingests and cleans spreadsheets to compute key metrics (totals, averages, growth rates) and detect anomalies.
+Auto-generates interactive charts and dashboards (line, column, pie, pivot charts) to visualize trends and support fast, data-driven decisions.
 - 🔗 [GitHub Repo](https://github.com/PATELKRISH9/Excel-Analyser)
 
 ### 📰 **news-app**
